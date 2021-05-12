@@ -1,0 +1,16 @@
+{
+  "name": "typeorm-practice",
+  "version": "1.0.0",
+  "description": "Practice using typeorm",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "typeorm": "^0.2.32"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nathan",
+  "license": "ISC"
+}
